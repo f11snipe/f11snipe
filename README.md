@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @f11snipe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-f11snipe/f11snipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [f11snipe.cloud](https://f11snipe.cloud) (blog)
+- [f11snipe.sh](https://f11snipe.sh) (scripts/troll site)
+- [f11snipe.live](https://f11snipe.live) (youtube)
+- [f11.sh](https://f11.sh) (toolkit)
